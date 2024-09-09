@@ -56,9 +56,13 @@
 }
 
 .input:disabled {
-  cursor: not-allowed;
   outline: 1px solid var(--ab-disabled-text, #8a8a8a);
   background: var(--ab-disabled-bg, #efefef);
+}
+
+.input:disabled,
+.input-container:has(.input:disabled) .label {
+  cursor: not-allowed;
 }
 
 .violet {
