@@ -75,6 +75,10 @@
           "buildTarget": "storybook-host:build-storybook:ci"
         }
       }
+    },
+
+    "chromatic": {
+      "command": "chromatic"
     }
   }
 }
