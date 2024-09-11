@@ -1,3 +1,14 @@
+## 2.3.1 (2024-09-11)
+
+
+### 🩹 Fixes
+
+- **button:** adiciona JSDoc ([b58323a](https://github.com/antonio-evaldo/4016-variantes-componentes-roteiro/commit/b58323a))
+
+### ❤️  Thank You
+
+- Antônio Evaldo @antonio-evaldo
+
 ## 2.3.0 (2024-09-11)
 
 This was a version bump only, there were no code changes.
